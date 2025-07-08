@@ -5,6 +5,6 @@ WORKDIR /app
 COPY package.json ./
 
 # # # Install dependencies
-RUN npm install -g yarn
+RUN npm install yarn
 RUN yarn install --frozen-lockfile
 copy . .

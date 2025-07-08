@@ -30,7 +30,8 @@
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
     "strapi-plugin-yt-clips": "0.0.2",
-    "styled-components": "^6.0.0"
+    "styled-components": "^6.0.0",
+    "@strapi-community/strapi-provider-upload-google-cloud-storage": "5.0.5"
   },
   "author": {
     "name": "A Strapi developer"
